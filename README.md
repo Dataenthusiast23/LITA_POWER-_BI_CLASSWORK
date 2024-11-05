@@ -90,3 +90,30 @@ The primary objectives of this analysis are:
   - What is the attrition count by department?
 
   - What is the attrition count by Educational field?
+
+
+### Approach
+
+   The questions were addressed using different visuals to identify key trends.  
+
+
+### Dashboard Overview
+
+
+
+
+
+
+![HR TRACKER DASHBOARD 1](https://github.com/user-attachments/assets/1605806d-d167-4370-b63b-6404df262047)
+
+
+
+
+
+
+
+
+
+![HR TRACKER DASHBOARD 2 ](https://github.com/user-attachments/assets/85172b65-9efc-4df2-b614-2f63b050794b)
+
+
