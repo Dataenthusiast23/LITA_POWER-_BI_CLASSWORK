@@ -23,13 +23,13 @@ The original data included various HR demographics and other fields metrics coll
 organisation's records. It contains 41 colums with some of the colums including but not limited to the following:
 
    - Attrition : Represent the attrition status
-   - Age band :
-   - DEpartment
-   - Education Field
-   - Employee Number
-   - GEnder
-   - Job role
-   - MAarital Status
+   - Age band : Represent the age ranges
+   - DEpartment: Sections in the organisation
+   - Education Field : This is the course of study of each employee
+   - Employee Number : Unique identifier of each persnnel
+   - GEnder : Identifies male and female 
+   - Job role : The position held by each employee
+   - MAarital Status : whether Married, Single or divorced
 
 
 
