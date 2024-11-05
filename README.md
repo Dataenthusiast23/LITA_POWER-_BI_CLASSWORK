@@ -78,4 +78,15 @@ The primary objectives of this analysis are:
 
 ## Analysis
 ---
-   
+
+### Analysis Questions
+
+  - What is the number of attrition?
+
+  - What is the number of current employees?
+
+  - What is the average age?
+
+  - What is the attrition count by department?
+
+  - What is the attrition count by Educational field?
