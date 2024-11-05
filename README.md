@@ -56,3 +56,26 @@ The primary objectives of this analysis are:
   ---
 
 ### Data Cleaning
+ Not much was done here beacuse the data was clean and except checking to ensure 
+ the datatype was correct with the columns.
+
+ ### Added new columns
+ ---
+ 
+  - Added  columns for attrition count, age sort and job satisfaction ratinng
+
+
+### Explorative Data Analysis
+---
+
+   After downloading the data in Excel, it was imported into Power BI query editor 
+   and the following were perfoemed
+
+   - DAX:  attrition rate, average age measures were created using DAX function.
+
+   - Dashboard Creation:  An interactive dashboard was created to present keys findings .
+
+
+## Analysis
+---
+   
