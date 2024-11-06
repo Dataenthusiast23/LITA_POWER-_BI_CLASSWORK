@@ -199,6 +199,7 @@ the lowest attrition counts. This suggests that the roles with higher technical 
 Research Scientist) or possibly higher stress environments (like Sales Executive) have higher turnover rates.
 
 
+ 
  Attrition Count by Marital Status
 
 Single employees have the highest attrition rate, followed by married employees, with divorced employees showing the lowest attrition rate.
@@ -207,17 +208,23 @@ role compared to their married or divorced counterparts.
 
 
 
+ 
  Employee Satisfaction by Job Role
 
 The Laboratory Technician and Research Scientist roles show high levels of dissatisfaction and very dissatisfaction, with over 20 dissatisfied 
 employees in Laboratory Technician role.
-
 Sales Executive roles also have notable dissatisfaction levels, though there are some satisfied employees as well.
-
 Roles like Healthcare Representative, Human Resources, and Manager have relatively low dissatisfaction levels, which may imply better job 
 satisfaction or workplace conditions in these roles.
 
 
+
+Employee Distribution by Education Field
+
+Life Sciences is the most common education field, with 89 employees, followed by Medical (63).
+Life Sciences also shows high levels of dissatisfaction, with 42 employees reporting dissatisfaction across different levels.
+This could suggest that employees with a Life Sciences background, who may often fill roles like Research Scientist and Laboratory Technician, 
+are experiencing job dissatisfaction, aligning with the high attrition rates in those roles.
 
 
 
