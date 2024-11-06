@@ -158,83 +158,83 @@ The primary objectives of this analysis are:
 ---
 
  
---Attrition Count by Department
+1. Attrition Count by Department
 
- The R&D department has the highest attrition rate, which could be due to the nature of the work, stress levels, 
- or other factors influencing employee turnover. The HR department has the lowest attrition, indicating relatively
- better retention.
+     The R&D department has the highest attrition rate, which could be due to the nature of the work, stress levels, 
+     or other factors influencing employee turnover. The HR department has the lowest attrition, indicating relatively
+     better retention.
 
- Attrition Count by Educational Field
+2. Attrition Count by Educational Field
 
- Life Sciences has the highest attrition by far in the Educational field, suggesting challenges in retaining employees
- with a Life Sciences background. Others like Human Resources has the lowest attrition.
- Employees from Life Sciences and Medical backgrounds seem more likely to leave, possibly due to job dissatisfaction, 
- career growth opportunities, or competitive demand in the industry.
+    Life Sciences has the highest attrition by far in the Educational field, suggesting challenges in retaining employees
+    with a Life Sciences background. Others like Human Resources has the lowest attrition.
+    Employees from Life Sciences and Medical backgrounds seem more likely to leave, possibly due to job dissatisfaction, 
+    career growth opportunities, or competitive demand in the industry.
 
- Attrition by Age Band
+3. Attrition by Age Band
 
- Younger employees (especially in the 25-34 age group) are more likely to leave, which may indicate that they are 
- seeking better opportunities, career growth, or facing dissatisfaction in their current roles.
-
- 
-Attrition by Age Group and Gender
-
- In all age groups, male employees have a higher attrition rate than females, with the highest attrition seen in males aged 35-44.
- Retention strategies may need to target younger and mid-career male employees specifically.
-
-
-Current Employees by Age Band and Gender
-
-The largest employee age group is 25-34, with a total of 540 employees, followed closely by the 35-44 age group with 384 employees.
-In both these age groups (25-34 and 35-44), there is an almost equal distribution between female and male employees, with a slight majority of male employees.
-There are significantly fewer employees under 25 and over 55, with only 76 in the under-25 age group and 39 in the over-55 age group.
-The gender distribution across all age bands shows a near-equal representation, though slightly more male employees overall.
-
-
-Attrition Count by Job Role
-
-The Laboratory Technician role has the highest attrition, with over 60 employees leaving, followed by Sales Executive and Research Scientist roles.
-Attrition rates generally decline across the other roles, with Healthcare Representative, Manager, and Research Director roles having
-the lowest attrition counts. This suggests that the roles with higher technical demands (like Laboratory Technician and 
-Research Scientist) or possibly higher stress environments (like Sales Executive) have higher turnover rates.
-
+   Younger employees (especially in the 25-34 age group) are more likely to leave, which may indicate that they are 
+   seeking better opportunities, career growth, or facing dissatisfaction in their current roles.
 
  
- Attrition Count by Marital Status
+4. Attrition by Age Group and Gender
 
-Single employees have the highest attrition rate, followed by married employees, with divorced employees showing the lowest attrition rate.
-This trend could indicate that single employees may be more open to changing jobs or have fewer commitments that tie them to a particular
-role compared to their married or divorced counterparts.
+    In all age groups, male employees have a higher attrition rate than females, with the highest attrition seen in males aged 35-44.
+    Retention strategies may need to target younger and mid-career male employees specifically.
 
+
+5. Current Employees by Age Band and Gender
+
+     The largest employee age group is 25-34, with a total of 540 employees, followed closely by the 35-44 age group with 384 employees.
+     In both these age groups (25-34 and 35-44), there is an almost equal distribution between female and male employees, with a slight majority of male employees.
+     There are significantly fewer employees under 25 and over 55, with only 76 in the under-25 age group and 39 in the over-55 age group.
+     The gender distribution across all age bands shows a near-equal representation, though slightly more male employees overall.
+
+
+6. Attrition Count by Job Role
+
+    The Laboratory Technician role has the highest attrition, with over 60 employees leaving, followed by Sales Executive and Research Scientist roles.
+    Attrition rates generally decline across the other roles, with Healthcare Representative, Manager, and Research Director roles having
+    the lowest attrition counts. This suggests that the roles with higher technical demands (like Laboratory Technician and 
+    Research Scientist) or possibly higher stress environments (like Sales Executive) have higher turnover rates.
 
 
  
- Employee Satisfaction by Job Role
+7. Attrition Count by Marital Status
 
-The Laboratory Technician and Research Scientist roles show high levels of dissatisfaction and very dissatisfaction, with over 20 dissatisfied 
-employees in Laboratory Technician role.
-Sales Executive roles also have notable dissatisfaction levels, though there are some satisfied employees as well.
-Roles like Healthcare Representative, Human Resources, and Manager have relatively low dissatisfaction levels, which may imply better job 
-satisfaction or workplace conditions in these roles.
+    Single employees have the highest attrition rate, followed by married employees, with divorced employees showing the lowest attrition rate.
+    This trend could indicate that single employees may be more open to changing jobs or have fewer commitments that tie them to a particular
+    role compared to their married or divorced counterparts.
 
 
 
-Employee Distribution by Education Field
+ 
+8. Employee Satisfaction by Job Role
 
-Life Sciences is the most common education field, with 89 employees, followed by Medical (63).
-Life Sciences also shows high levels of dissatisfaction, with 42 employees reporting dissatisfaction across different levels.
-This could suggest that employees with a Life Sciences background, who may often fill roles like Research Scientist and Laboratory Technician, 
-are experiencing job dissatisfaction, aligning with the high attrition rates in those roles.
+    The Laboratory Technician and Research Scientist roles show high levels of dissatisfaction and very dissatisfaction, with over 20 dissatisfied 
+    employees in Laboratory Technician role.
+    Sales Executive roles also have notable dissatisfaction levels, though there are some satisfied employees as well.
+    Roles like Healthcare Representative, Human Resources, and Manager have relatively low dissatisfaction levels, which may imply better job 
+    satisfaction or workplace conditions in these roles.
+
+
+
+9. Employee Distribution by Education Field
+
+    Life Sciences is the most common education field, with 89 employees, followed by Medical (63).
+    Life Sciences also shows high levels of dissatisfaction, with 42 employees reporting dissatisfaction across different levels.
+    This could suggest that employees with a Life Sciences background, who may often fill roles like Research Scientist and Laboratory Technician, 
+    are experiencing job dissatisfaction, aligning with the high attrition rates in those roles.
 
 
 
 
-Current Employees by Marital Status and Gender
+10. Current Employees by Marital Status and Gender
 
-The majority of employees are married, with 589 married female and male employees.
-Single employees follow, with 152 females and 198 males, while divorced employees are the smallest group.
-The marital status distribution shows a balanced gender representation, but given the higher attrition for single employees, 
-the company may want to investigate what motivates them to leave.
+     The majority of employees are married, with 589 married female and male employees.
+     Single employees follow, with 152 females and 198 males, while divorced employees are the smallest group.
+     The marital status distribution shows a balanced gender representation, but given the higher attrition for single employees, 
+     the company may want to investigate what motivates them to leave.
 
 
 
