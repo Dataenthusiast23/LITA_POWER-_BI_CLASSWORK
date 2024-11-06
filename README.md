@@ -167,6 +167,37 @@ The primary objectives of this analysis are:
 ### Insights Generation
 ---
 
+ 
+ Attrition Count by Department
+
+ The R&D department has the highest attrition rate, which could be due to the nature of the work, stress levels, 
+ or other factors influencing employee turnover. The HR department has the lowest attrition, indicating relatively
+ better retention.
+
+ Attrition Count by Educational Field
+
+ Life Sciences has the highest attrition by far in the Educational field, suggesting challenges in retaining employees
+ with a Life Sciences background. Others like Human Resources has the lowest attrition.
+
+ Attrition Count by Educational Field
+
+ Employees from Life Sciences and Medical backgrounds seem more likely to leave, possibly due to job satisfaction, 
+ career growth opportunities, or competitive demand in the industry.
+
+
+ Attrition by Age Band
+
+ Younger employees (especially in the 25-34 age group) are more likely to leave, which may indicate that they are 
+ seeking better opportunities, career growth, or facing dissatisfaction in their current roles.
+
+
+
+
+
+
+
+
+
 
 
 
