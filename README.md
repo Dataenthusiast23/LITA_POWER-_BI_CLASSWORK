@@ -81,15 +81,15 @@ The primary objectives of this analysis are:
 ### Basic statistics about the dataset
 ---
 
-   - Number of Employees: 1,470
+   - Number of Employees 1,470
 
-   - Number of Attritions: 237
+   - Number of Attritions 237
 
-   - Number of Current Employees: 1,233
+   - Number of Current Employees 1,233
 
-   - Attrition Rate: 16%
+   - Attrition Rate 16%
 
-   - Average Age: 37
+   - Average Age 37
 
 
 ## Tools Used
