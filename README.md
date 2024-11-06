@@ -182,6 +182,29 @@ Attrition by Age Group and Gender
  In all age groups, male employees have a higher attrition rate than females, with the highest attrition seen in males aged 35-44.
  Retention strategies may need to target younger and mid-career male employees specifically.
 
+
+Current Employees by Age Band and Gender
+
+The largest employee age group is 25-34, with a total of 540 employees, followed closely by the 35-44 age group with 384 employees.
+
+In both these age groups (25-34 and 35-44), there is an almost equal distribution between female and male employees, with a slight majority of male employees.
+
+There are significantly fewer employees under 25 and over 55, with only 76 in the under-25 age group and 39 in the over-55 age group.
+
+The gender distribution across all age bands shows a near-equal representation, though slightly more male employees overall.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 Key Takeaways
 
 1. High Attrition in Specific Departments and Fields: The R&D department and employees with a Life Sciences background show
@@ -203,6 +226,15 @@ opportunities may help improve overall employee satisfaction and retention.
 
 
 
+Current Employees by Age Band and Gender
+
+The largest employee age group is 35-44, with a total of 454 employees, followed closely by the 25-34 age group with 442 employees.
+
+In both these age groups (25-34 and 35-44), there is an almost equal distribution between female and male employees, with a slight majority of male employees.
+
+There are significantly fewer employees under 25 and over 55, with only 59 in the under-25 age group and 58 in the over-55 age group.
+
+The gender distribution across all age bands shows a near-equal representation, though slightly more male employees overall.
 
 
 
