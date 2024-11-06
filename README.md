@@ -184,15 +184,17 @@ Attrition by Age Group and Gender
 
 Key Takeaways
 
-1. High Attrition in Specific Departments and Fields: The R&D department and employees with a Life Sciences background show high attrition.
-   These areas may require targeted retention efforts, like addressing work conditions, stress levels, or offering career growth paths.
+1. High Attrition in Specific Departments and Fields: The R&D department and employees with a Life Sciences background show
+   high attrition. These areas may require targeted retention efforts, like addressing work conditions, stress levels, or
+   offering career growth paths.
 
-2. Gender Disparity in Attrition Rates: Male employees exhibit higher attrition across all age groups. This could be due to role distribution,
-   career aspirations, or workplace culture factors that differ between genders.
+2. Gender Disparity in Attrition Rates: Male employees exhibit higher attrition across all age groups. This could be due to
+   role distribution, career aspirations, or workplace culture factors that differ between genders.
 
 
-3. Age-Based Attrition Trends: Younger employees, particularly those aged 25-34, have the highest attrition rates, likely due to their pursuit of career growth.
-   Retention strategies focusing on professional development, mentorship, and engagement could help reduce attrition in this group.
+3. Age-Based Attrition Trends: Younger employees, particularly those aged 25-34, have the highest attrition rates,
+   likely due to their pursuit of career growth. Retention strategies focusing on professional development, mentorship,
+   and engagement could help reduce attrition in this group.
 
 
 In conclusion, addressing the high attrition in the R&D department and among younger employees, particularly those from Life Sciences and males, 
