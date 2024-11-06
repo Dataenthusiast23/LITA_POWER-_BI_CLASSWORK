@@ -24,16 +24,6 @@ at LITA through the Incubtor Hub.
 [Dashboard Overview](#dashboard-overview)
 
 
-
-
-
-
-
-
-
-
-
-
 ## Abstract
 This project analyzes the attrirtion of an Organisation with the Employeee
 population of 1470 personnels. The analyzes covers the Employee demographics, Business travels, 
