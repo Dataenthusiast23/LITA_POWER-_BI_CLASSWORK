@@ -207,6 +207,17 @@ role compared to their married or divorced counterparts.
 
 
 
+ Employee Satisfaction by Job Role
+
+The Laboratory Technician and Research Scientist roles show high levels of dissatisfaction and very dissatisfaction, with over 20 dissatisfied 
+employees in Laboratory Technician role.
+
+Sales Executive roles also have notable dissatisfaction levels, though there are some satisfied employees as well.
+
+Roles like Healthcare Representative, Human Resources, and Manager have relatively low dissatisfaction levels, which may imply better job 
+satisfaction or workplace conditions in these roles.
+
+
 
 
 
