@@ -83,7 +83,7 @@ The primary objectives of this analysis are:
 
    - Number of Employees 1,470
 
-   - Number of Attritions 237
+   - Number of Attrition 237
 
    - Number of Current Employees 1,233
 
