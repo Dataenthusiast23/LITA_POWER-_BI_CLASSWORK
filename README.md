@@ -3,6 +3,35 @@ at LITA through the Incubtor Hub.
 
 # EMPLOYEE ATTRITION ANALYTICS 
 
+[Abstract](#abstract)
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Project Objective](#project-objective)
+
+[Tools Used](#tools-used)
+
+[Methodology](#methodology)
+
+[Analysis](#analysis)
+
+[Approach](#approach)
+
+[Dashboard Overview](#dashboard-overview)
+
+
+
+
+
+
+
+
+
+
+
+
 ## Abstract
 This project analyzes the attrirtion of an Organisation with the Employeee
 population of 1470 personnels. The analyzes covers the Employee demographics, Business travels, 
