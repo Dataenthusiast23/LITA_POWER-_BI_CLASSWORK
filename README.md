@@ -158,7 +158,7 @@ The primary objectives of this analysis are:
 ---
 
  
- Attrition Count by Department
+--Attrition Count by Department
 
  The R&D department has the highest attrition rate, which could be due to the nature of the work, stress levels, 
  or other factors influencing employee turnover. The HR department has the lowest attrition, indicating relatively
