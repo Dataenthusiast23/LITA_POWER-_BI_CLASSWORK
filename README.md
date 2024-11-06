@@ -269,17 +269,30 @@ the company may want to investigate what motivates them to leave.
 
 Key Takeaways
 
-1. High Attrition in Specific Departments and Fields: The R&D department and employees with a Life Sciences background show
+ High Attrition in Specific Departments and Fields: The R&D department and employees with a Life Sciences background show
    high attrition. These areas may require targeted retention efforts, like addressing work conditions, stress levels, or
    offering career growth paths.
 
-2. Gender Disparity in Attrition Rates: Male employees exhibit higher attrition across all age groups. This could be due to
+ Gender Disparity in Attrition Rates: Male employees exhibit higher attrition across all age groups. This could be due to
    role distribution, career aspirations, or workplace culture factors that differ between genders.
 
 
-3. Age-Based Attrition Trends: Younger employees, particularly those aged 25-34, have the highest attrition rates,
+ Age-Based Attrition Trends: Younger employees, particularly those aged 25-34, have the highest attrition rates,
    likely due to their pursuit of career growth. Retention strategies focusing on professional development, mentorship,
    and engagement could help reduce attrition in this group.
+
+High Attrition in Technical Roles: The Laboratory Technician, Sales Executive, and Research Scientist roles have high attrition rates, 
+  which could be due to job stress, satisfaction levels, or potential career growth in other companies or industries.
+
+Satisfaction Issues in Certain Fields: Dissatisfaction is high in roles requiring a Life Sciences background, 
+  which might suggest a need for improved working conditions, better career support, or more engagement opportunities 
+  for employees in technical fields.
+
+Marital Status and Retention: Single employees are more likely to leave compared to married or divorced employees, 
+ which could be an area for retention strategies.
+
+Age Group and Employee Distribution: The company’s workforce is concentrated in the 25-44 age range, with a balanced gender distribution. 
+ This demographic may require specific career development and satisfaction-focused initiatives to reduce turnover.
 
 
 
