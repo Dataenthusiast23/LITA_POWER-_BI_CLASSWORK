@@ -229,6 +229,20 @@ are experiencing job dissatisfaction, aligning with the high attrition rates in 
 
 
 
+Current Employees by Marital Status and Gender
+
+The majority of employees are married, with 589 married female and male employees.
+Single employees follow, with 152 females and 198 males, while divorced employees are the smallest group.
+The marital status distribution shows a balanced gender representation, but given the higher attrition for single employees, 
+the company may want to investigate what motivates them to leave.
+
+
+
+
+
+
+
+
 
  
 
