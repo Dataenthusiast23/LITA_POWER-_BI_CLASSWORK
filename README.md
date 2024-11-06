@@ -164,3 +164,12 @@ The primary objectives of this analysis are:
 ![HR TRACKER DASHBOARD 2 ](https://github.com/user-attachments/assets/85172b65-9efc-4df2-b614-2f63b050794b)
 
 
+### Insights Generation
+---
+
+
+
+
+
+
+
