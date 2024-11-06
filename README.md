@@ -186,23 +186,24 @@ Attrition by Age Group and Gender
 Current Employees by Age Band and Gender
 
 The largest employee age group is 25-34, with a total of 540 employees, followed closely by the 35-44 age group with 384 employees.
-
 In both these age groups (25-34 and 35-44), there is an almost equal distribution between female and male employees, with a slight majority of male employees.
-
 There are significantly fewer employees under 25 and over 55, with only 76 in the under-25 age group and 39 in the over-55 age group.
-
 The gender distribution across all age bands shows a near-equal representation, though slightly more male employees overall.
 
 
 Attrition Count by Job Role
 
 The Laboratory Technician role has the highest attrition, with over 60 employees leaving, followed by Sales Executive and Research Scientist roles.
-
 Attrition rates generally decline across the other roles, with Healthcare Representative, Manager, and Research Director roles having
-
 the lowest attrition counts. This suggests that the roles with higher technical demands (like Laboratory Technician and 
-
 Research Scientist) or possibly higher stress environments (like Sales Executive) have higher turnover rates.
+
+
+ Attrition Count by Marital Status
+
+Single employees have the highest attrition rate, followed by married employees, with divorced employees showing the lowest attrition rate.
+This trend could indicate that single employees may be more open to changing jobs or have fewer commitments that tie them to a particular
+role compared to their married or divorced counterparts.
 
 
 
@@ -212,6 +213,27 @@ Research Scientist) or possibly higher stress environments (like Sales Executive
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Key Takeaways
 
@@ -228,6 +250,20 @@ Key Takeaways
    and engagement could help reduce attrition in this group.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 In conclusion, addressing the high attrition in the R&D department and among younger employees, particularly those from Life Sciences and males, 
 could positively impact retention. Implementing targeted strategies that address department-specific issues and provide career advancement
 opportunities may help improve overall employee satisfaction and retention.
@@ -236,7 +272,7 @@ opportunities may help improve overall employee satisfaction and retention.
 
 
 
-### 
+ 
 
 
 
