@@ -11,6 +11,8 @@ at LITA through the Incubtor Hub.
 
 [Project Objective](#project-objective)
 
+[Basic statistics about the dataset](#basic-statistics-about-the-dataset)
+
 [Tools Used](#tools-used)
 
 [Methodology](#methodology)
@@ -72,6 +74,22 @@ The primary objectives of this analysis are:
  - to determine the employees at risk of leaving
  - to design strategies to reduce attririon and
    retain top talents.
+
+
+
+
+### Basic statistics about the dataset
+---
+
+   - Number of Employees: 1,470
+
+   - Number of Attritions: 237
+
+   - Number of Current Employees: 1,233
+
+   - Attrition Rate: 16%
+
+   - Average Age: 37
 
 
 ## Tools Used
