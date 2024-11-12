@@ -150,6 +150,7 @@ The primary objectives of this analysis are:
 
 
 
+![hr project dashboard 2 ](https://github.com/user-attachments/assets/a9cabfde-d8aa-4224-9b9a-b27b09b76ddd)
 
 
 
